@@ -20,10 +20,15 @@
                     </ul>
                 </div>
                 <div class="col-md-4">
-                    <p>Join the Conversation</p>
+                    <h2>Join the Conversation</h2>
+                    <a href="#" target="_blank"><svg class="social-icon"><use xlink:href="#twitter-icon"></use></svg></a>
+                    <a href="#" target="_blank"><svg class="social-icon"><use xlink:href="#telegram-icon"></use></svg></a>
+                    <a href="#" target="_blank"><svg class="social-icon"><use xlink:href="#facebook-icon"></use></svg></a>
+                    <a href="#" target="_blank"><svg class="social-icon"><use xlink:href="#linkedin-icon"></use></svg></a>
+                    <a href="#" target="_blank"><svg class="social-icon"><use xlink:href="#trybe-icon"></use></svg></a>
                 </div>
                 <div class="col-md-4">
-                    
+                    <p>© 2019 Gyftie Foundation</p>
                 </div>
             </div>
         </div>
