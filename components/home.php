@@ -1,45 +1,14 @@
 <section class="mast-head">
     <div class="container">
         <div class="row">
-            <div class="col-md-6">
-                <img src="assets/images/fund-build-play.png">
-                <h1>The Next Generation Digital Distribution Platform</h1>
-                <p>with a groundbreaking motivational and referral system, offering both<br />gamers and developers various opportunities to increase their income</p>
+            <div class="col-md-5">
+                <h1>Vouching for a better world</h1>
+                <p>Gyftie is a financial reputation system designed with collaborative intelligence to help empower the world.  We align personal integrity with financial self-interest in a manner that accelerates growth, reduces fraud, and reduces poverty. And it all starts with a simple gift (GFT) from one friend to another.</p>
                 <a href="#">Learn More</a>
-                <ul class="list-inline list-unstyled">
-                    <li class="list-inline-item"><a href="#">Twitter</a></li>
-                    <li class="list-inline-item"><a href="#">Facebook</a></li>
-                    <li class="list-inline-item"><a href="#">LinkedIn</a></li>
-                    <li class="list-inline-item"><a href="#">Mail</a></li>
-                    <li class="list-inline-item"><a href="#">Bitcoin</a></li>
-                    <li class="list-inline-item"><a href="#">Reddit</a></li>
-                </ul>
+                
             </div>
-            <div class="col-md-6">
-                <img src="assets/images/fund-build-play.png">
-                <h1>The Next Generation Digital Distribution Platform</h1>
-                <p>with a groundbreaking motivational and referral system, offering both<br />gamers and developers various opportunities to increase their income</p>
-                <a href="#">Learn More</a>
-                <ul class="list-inline list-unstyled">
-                    <li class="list-inline-item"><a href="#">Twitter</a></li>
-                    <li class="list-inline-item"><a href="#">Facebook</a></li>
-                    <li class="list-inline-item"><a href="#">LinkedIn</a></li>
-                    <li class="list-inline-item"><a href="#">Mail</a></li>
-                    <li class="list-inline-item"><a href="#">Bitcoin</a></li>
-                    <li class="list-inline-item"><a href="#">Reddit</a></li>
-                </ul>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-6">
-                <p>Downloadable Resources</p>
-                <button type="button" class="btn btn-primary">White Paper</button>
-                <button type="button" class="btn btn-primary">One Pager</button>
-                <button type="button" class="btn btn-primary">Market Research</button>
-            </div>
-            <div class="col-md-6">
-                <p>Pre-Sale Begins In</p>
-                Counter
+            <div class="col-md-7">
+                
             </div>
         </div>
     </div>
@@ -49,38 +18,22 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <ul class="list-inline list-unstyled">
-                    <li class="list-inline-item first-inline">Smart Contracts<img src="assets/images/coin-f1.png"></li>
-                    <li class="list-inline-item second-inline"><img src="assets/images/coin-f3.png">P2P Network</li>
-                    <li class="list-inline-item first-inline">indieSTORM Blockchain<img src="assets/images/coin-f2.png"></li>
-                    <li class="list-inline-item second-inline"><img src="assets/images/coin-f4.png">Consensus Protocol</li>
-                </ul>
-                <div class="coin-what-is">
-                    <img src="assets/images/coin-final.png">
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12">
-                <h1>WHAT IS INDIESTORM?</h1>
-                <p>Nulla pulvinar, justo eget faucibus consequat, felis turpis posuere quam, dignissim interdum tortor dui nec odio.<br />
-                    Fusce dignissim aliquam malesuada. Praesent tincidunt lorem nec fringilla porttitor.<br />
-                    Nunc a ante convallis, aliquet nisl eu, consequat libero ac nisi egestas.<br />
-                    Donec cursus ac neque eu molestie.</p>
+                <h1>Features</h1>
+                <p>A public recordkeeping system with verifiable integrity.</p>
             </div>
         </div>
         <div class="row">
             <div class="col-md-4">
-                <h2>GAME OVER FOR CHEATERS</h2>
-                <p>Cras imperdiet mollis turpis vel ultricies.<br />Donec posuere dignissim consectetur.<br />Fusce ullamcorper dictum faucibus.<br />Donec cursus ac neque eu molestie.</p>
+                <h2>Vouch to Earn</h2>
+                <p>Invite your friends, vouch for them and you both get rewarded with GFT token.</p>
             </div>
             <div class="col-md-4">
-                <h2>LETS YOU BE INVISIBLE</h2>
-                <p>Cras imperdiet mollis turpis vel ultricies.<br />Donec posuere dignissim consectetur.<br />Fusce ullamcorper dictum faucibus.<br />Donec cursus ac neque eu molestie.</p>
+                <h2>Propose & Collaborate</h2>
+                <p>Earn more when you participate. Everyone has a vote and can even propose changes.</p>
             </div>
             <div class="col-md-4">
-                <h2>TRANSFER SPEED = GOD MODE</h2>
-                <p>Cras imperdiet mollis turpis vel ultricies.<br />Donec posuere dignissim consectetur.<br />Fusce ullamcorper dictum faucibus.<br />Donec cursus ac neque eu molestie.</p>
+                <h2>Investigate</h2>
+                <p>If someone cheats the system, we close the account and share ½ the coins with the Gyftie Community and ½ with the investigator.</p>
             </div>
         </div>
     </div>
@@ -89,46 +42,17 @@
 <section class="eco-system">
     <div class="container">
         <div class="row">
-            <div class="col-md-6">
-                <div class="eco-icon">
-
-                </div>
-                <h2><img src="assets/images/developers-icn.png">FOR DEVELOPERS</h2>
-                <p>You love games. We do too. You want a direct<br />
-                    connection to developers, without the Corporate<br />
-                    Commander getting in the way. Join us & take<br />
-                    part in an entirely new way of gaming.</p>
+            <div class="col-md-12">
+                <h1>Hive-Intelligence</h1>
             </div>
-            <div class="col-md-6">
-                <h2 class="text-right">FOR GAMERS<img src="assets/images/gamers-icn.png"></h2>
-                <p class="text-right">We will provide you with completely open game<br />
-                    projects, so you can get started right away!<br />
-                    Use tools to gain the spotlight and the funding<br />
-                    to bring gamers’ dreams into reality.</p>
-            </div>
-
-            <div class="col-md-6">
-                <h2><img src="assets/images/streamers-icn.png">FOR STREAMERS</h2>
-                <p>Focus on your content, and stop<br />
-                    worrying about monetization.<br />
-                    Your fans love you. It’s time for a<br />
-                    platform that loves you too.</p>
-            </div>
-
-            <div class="col-md-6">
-                <h2 class="text-right">FOR VIEWERS<img src="assets/images/viewers-icn.png"></h2>
-                <p class="text-right">Reach your core market with our<br />
-                    easy-to-use and transparent system.<br />
-                    We are cutting out the middleman,<br />
-                    and bringing a way like never before.</p>
-            </div>
-        </div>
-        <div class="indie-storm-eco-system">
-            <img src="assets/images/logo-eco.png">
         </div>
         <div class="row">
-            <div class="col-md-12">
-                <img src="assets/images/infographic.png">
+            <div class="col-md-6">
+            </div>
+            <div class="col-md-6">
+                <h2>Join the hive</h2>
+                <p>The Gyftie Hypothesis is that collaborative-intelligent-interaction and real-time-adaptability is sufficient to address & adapt to the various issues as they arise. 
+Help us to improve and evolve Gyftie by collaboration and proposals.</p>
             </div>
         </div>
     </div>
