@@ -40,18 +40,21 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4">
+                <img src="assets/images/vouching.png" class="vouche-image">
                 <h2>Vouch to Earn</h2>
                 <p>Invite your friends, vouch for them and you both get rewarded with GFT token.</p>
                 <div class="col text-center">
                 <a target="_blank" href="https://gyftieapp.org"><button type="button" class="btn btn-primary">READ MORE</button></a></div>
             </div>
             <div class="col-md-4">
+                <img src="assets/images/collaborate.png" class="collaborate-image">
                 <h2>Propose & Collaborate</h2>
                 <p>Earn more when you participate. Everyone has a vote and can even propose changes.</p>
                 <div class="col text-center">
                 <a target="_blank" href="https://gyftieapp.org"><button type="button" class="btn btn-primary">READ MORE</button></a></div>
             </div>
             <div class="col-md-4">
+                <img src="assets/images/investigate.png" class="investigate-image">
                 <h2>Investigate</h2>
                 <p>If someone cheats the system, we close the account and share ½ the coins with the Gyftie Community and ½ with the investigator.</p>
                 <div class="col text-center">
