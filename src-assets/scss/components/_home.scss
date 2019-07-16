@@ -32,6 +32,16 @@
   background-color: #220037;
   padding-top: 30px;
   padding-bottom: 102px;
+  .btn-primary {
+    background-color: transparent;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 8px;
+    font-size: 15px;
+    padding-bottom: 8px;
+    border-radius: 8px;
+    border-color: white;
+  }
   .container {
     .row {
       h1 {
