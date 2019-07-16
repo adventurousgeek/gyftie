@@ -1,7 +1,21 @@
 <section class="mast-head">
     <div class="container">
         <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-6">
+                <img src="assets/images/fund-build-play.png">
+                <h1>The Next Generation Digital Distribution Platform</h1>
+                <p>with a groundbreaking motivational and referral system, offering both<br />gamers and developers various opportunities to increase their income</p>
+                <a href="#">Learn More</a>
+                <ul class="list-inline list-unstyled">
+                    <li class="list-inline-item"><a href="#">Twitter</a></li>
+                    <li class="list-inline-item"><a href="#">Facebook</a></li>
+                    <li class="list-inline-item"><a href="#">LinkedIn</a></li>
+                    <li class="list-inline-item"><a href="#">Mail</a></li>
+                    <li class="list-inline-item"><a href="#">Bitcoin</a></li>
+                    <li class="list-inline-item"><a href="#">Reddit</a></li>
+                </ul>
+            </div>
+            <div class="col-md-6">
                 <img src="assets/images/fund-build-play.png">
                 <h1>The Next Generation Digital Distribution Platform</h1>
                 <p>with a groundbreaking motivational and referral system, offering both<br />gamers and developers various opportunities to increase their income</p>
