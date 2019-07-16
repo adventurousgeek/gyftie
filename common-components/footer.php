@@ -13,7 +13,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <p></p>
+                    <svg class="footer-logo"><use xlink:href="#footer-logo"></use></svg>
+                    <ul>
+                        <li>Terms of Use</li>
+                        <li>Privacy Policy</li>
+                    </ul>
                 </div>
                 <div class="col-md-4">
                     <p>Join the Conversation</p>
