@@ -1,9 +1,9 @@
 .site-header {
   position: absolute;
   width: 100%;
-  padding-top: 63px;
+  padding-top: 54px;
   a.nav-link {
-    color: $indie-gray !important;
+    color: white !important;
   }
   .container {
     .row {
@@ -15,7 +15,7 @@
     }
     .navbar-brand {
       img {
-        width: 50%;
+        height: 90px;
       }
     }
   }

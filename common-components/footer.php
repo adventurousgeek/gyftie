@@ -3,14 +3,8 @@
     <section class="pre-footer">
         <div class="container">
             <div class="row">
-                <div class="col-md-4">
-                    <h2>Gamers FAQ</h2>
-                    <ul class="list-unstyled list-inline">
-                        <li class="list-inline-item"><a href="#"></a></li>
-                        <li class="list-inline-item"><a href="#"></a></li>
-                        <li class="list-inline-item"><a href="#"></a></li>
-                    </ul>
-                    <a href="#">View All</a>
+                <div class="col-md-12">
+                    <img class="imac" src="assets/images/footer-ad.png">
                 </div>
             </div>
         </div>
@@ -18,7 +12,15 @@
     <section class="post-footer">
         <div class="container">
             <div class="row">
-
+                <div class="col-md-4">
+                    <p></p>
+                </div>
+                <div class="col-md-4">
+                    <p>Join the Conversation</p>
+                </div>
+                <div class="col-md-4">
+                    
+                </div>
             </div>
         </div>
     </section>
