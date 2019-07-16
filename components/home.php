@@ -69,9 +69,9 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-7">
             </div>
-            <div class="col-md-6">
+            <div class="col-md-5">
                 <h2>Join the hive</h2>
                 <p>The Gyftie Hypothesis is that collaborative-intelligent-interaction and real-time-adaptability is sufficient to address & adapt to the various issues as they arise. Help us to improve and evolve Gyftie by collaboration and proposals.</p>
                 <a target="_blank" href="https://gyftieapp.org"><button type="button" class="btn btn-primary">READ MORE</button></a>
