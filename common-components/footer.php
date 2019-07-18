@@ -15,8 +15,8 @@
                 <div class="col-md-4">
                     <svg class="footer-logo"><use xlink:href="#footer-logo"></use></svg>
                     <ul>
-                        <li>Terms of Use</li>
-                        <li>Privacy Policy</li>
+                        <li><a href="#">Terms of Use</a></li>
+                        <li><a href="#">Privacy Policy</a></li>
                     </ul>
                 </div>
                 <div class="col-md-4">
