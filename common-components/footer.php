@@ -28,7 +28,7 @@
                     <a href="#" target="_blank"><svg class="social-icon"><use xlink:href="#trybe-icon"></use></svg></a>
                 </div>
                 <div class="col-md-4">
-                    <p>© 2019 Gyftie Foundation</p>
+                    <p class="text-right">© 2019 Gyftie Foundation</p>
                 </div>
             </div>
         </div>

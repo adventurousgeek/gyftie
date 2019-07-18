@@ -1,4 +1,5 @@
 <section class="mast-head">
+    
     <div class="container">
         <div class="row">
             <div class="col-md-5">
@@ -11,6 +12,9 @@
             </div>
         </div>
     </div>
+    <img src="assets/images/header-bg2-left.png" class="header-bg-left">
+    <img src="assets/images/header-graphic-right.png" class="header-bg-right-main">
+    <img src="assets/images/header-bg-right.svg" class="header-bg-right-svg">
 </section>
 
 <section class="features-images">
@@ -23,38 +27,38 @@
         </div>
         <div class="row">
             <div class="col-md-4">
-                <img src="assets/images/vouching.png" class="vouche-image">
+                <img src="assets/images/vouch.svg" class="vouche-image">
             </div>
             <div class="col-md-4">
-                <img src="assets/images/collaborate.png" class="collaborate-image">
+                <img src="assets/images/collaborate.svg" class="collaborate-image">
             </div>
             <div class="col-md-4">
-                <img src="assets/images/investigate.png" class="investigate-image">
+                <img src="assets/images/investigate.svg" class="investigate-image">
             </div>
         </div>
     </div>
 </section>
-
+<section class="gradient-section">
 <section class="features-section">
-<img src="assets/images/curves.png" class="curve-image">
+<img src="assets/images/curves.svg" class="curve-image">
     <div class="container">
         <div class="row">
             <div class="col-md-4">
-                <img src="assets/images/vouching.png" class="vouche-image">
+                <img src="assets/images/vouch.svg" class="vouche-image">
                 <h2>Vouch to Earn</h2>
                 <p>Invite your friends, vouch for them and you both get rewarded with GFT token.</p>
                 <div class="col text-center">
                 <a target="_blank" href="https://gyftieapp.org"><button type="button" class="btn btn-primary">READ MORE</button></a></div>
             </div>
             <div class="col-md-4">
-                <img src="assets/images/collaborate.png" class="collaborate-image">
+                <img src="assets/images/collaborate.svg" class="collaborate-image">
                 <h2>Propose & Collaborate</h2>
                 <p>Earn more when you participate. Everyone has a vote and can even propose changes.</p>
                 <div class="col text-center">
                 <a target="_blank" href="https://gyftieapp.org"><button type="button" class="btn btn-primary">READ MORE</button></a></div>
             </div>
             <div class="col-md-4">
-                <img src="assets/images/investigate.png" class="investigate-image">
+                <img src="assets/images/investigate.svg" class="investigate-image">
                 <h2>Investigate</h2>
                 <p>If someone cheats the system, we close the account and share ½ the coins with the Gyftie Community and ½ with the investigator.</p>
                 <div class="col text-center">
@@ -85,5 +89,12 @@
 </section>
 
 <section class="dna-section">
-    
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <img src="assets/images/dna.svg">
+            </div>
+        </div>
+    </div>
+</section>
 </section>
